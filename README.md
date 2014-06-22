@@ -1,4 +1,4 @@
 congreso
 ========
 
-congreso de des chaco
+congreso de la des chaco
